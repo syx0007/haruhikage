@@ -14,3 +14,4 @@
 
 - <https://github.com/Steve-xmh/applemusic-like-lyrics>
 - <https://github.com/Steve-xmh/amll-ttml-db>
+- [pixiv 丰川祥子表情包](https://www.pixiv.net/artworks/124502385)
