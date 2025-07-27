@@ -4,7 +4,7 @@
 
 ![](https://i.postimg.cc/sD3yYF91/image.png)
 
-桌面端浏览器用 <Shift-D> 快捷键切换 Debug 模式：
+桌面端浏览器用 `<Shift-D>` 快捷键切换 Debug 模式：
 
 ![](https://i.postimg.cc/63Vgq3Pc/image.png)
 
