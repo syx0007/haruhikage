@@ -2,6 +2,8 @@
 
 使用[AMLL](https://github.com/Steve-xmh/applemusic-like-lyrics)制作。
 
+本仓库存放的是构建好的版本，开发的代码在这里：<https://github.com/fanlumaster/AnimatedLyrics/tree/haruhikage>。
+
 ![](https://i.postimg.cc/sD3yYF91/image.png)
 
 桌面端浏览器用 `<Shift-D>` 快捷键切换 Debug 模式：
